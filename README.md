@@ -12,6 +12,10 @@
 ## Description
   
 A readme generator using node.js and inquirer to make a README via user response. 
+
+gif of application below 
+
+<img src="Assets/Animation.gif">
   
 🎥 The video of application workingcan be found below
 

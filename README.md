@@ -17,7 +17,7 @@ gif of application below
 
 <img src="Assets/Animation.gif">
   
- Above shows entering the field will result in README file being created. Please see the view for more detailed and non blank entires
+ Above shows entering the field will result in README file being created. Please see the video link below for more detailed and non blank entires
  
 🎥 The video of application workingcan be found below
 
